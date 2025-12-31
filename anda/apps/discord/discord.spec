@@ -47,4 +47,4 @@ ln -s %_datadir/discord/Discord %buildroot%_bindir/discord
 
 %changelog
 * Thu Jan 19 2023 windowsboy111 <wboy111@outlook.com> - 0.0.143-1
-- Initial package
+- Initial package.
