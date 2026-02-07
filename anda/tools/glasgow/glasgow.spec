@@ -1,5 +1,5 @@
-%global commit aa05b7f4ce69e23098e5a4cd591642d463453aa1
-%global commit_date 20251229
+%global commit 5c935bc2b8ba931ac1f7022f86214526442126d6
+%global commit_date 20260202
 %global shortcommit %(c=%{commit}; echo ${c:0:7})
 
 %global pypi_name glasgow
