@@ -12,10 +12,10 @@
 
 # Naming variable as something other than "commit" is necessary
 # to stop %%gometa from putting commit hash in release
-%global commit_hash 467eb88df02cf281d372e141e71a79985961f0c8
-%global commit_date 20251219
+%global commit_hash 3a7403bde4d508afea93a94d1113ca73cf37c1c1
+%global commit_date 20260129
 %global shortcommit %{sub %{commit_hash} 1 7}
-%global ver 2.0.14
+%global ver 2.0.15
 
 # https://github.com/zyedidia/micro
 %global goipath         github.com/zyedidia/micro
