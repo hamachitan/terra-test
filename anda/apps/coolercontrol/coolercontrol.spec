@@ -150,4 +150,3 @@ appstream-util validate-relax --nonet %buildroot%_metainfodir/%rdnn.metainfo.xml
 %doc coolercontrol-liqctld/README.md
 %license LICENSE
 %_bindir/coolercontrol-liqctld
-%_unitdir/coolercontrol-liqctld.service
