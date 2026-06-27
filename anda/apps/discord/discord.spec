@@ -46,5 +46,4 @@ ln -s %_datadir/discord/Discord %buildroot%_bindir/discord
 
 %changelog
 * Thu Jan 19 2023 madonuko <mado@fyralabs.com> - 0.0.143-1
-- Initial package* Sun Jun 06 2026 madonuko <madonuko@outlook.com> - 0.0.123-1
-- test message hey
+- Initial package
