@@ -74,3 +74,6 @@ desktop-file-install --set-key=Exec --set-value="%{_datadir}/legcord/legcord %U"
 %changelog
 * Sun Jun 06 2026 madonuko <madonuko@outlook.com> - 1.1.6-1
 - test message hey
+
+* Sun Jun 06 2026 madonuko <madonuko@outlook.com> - 1.1.6-1
+- test message hey
