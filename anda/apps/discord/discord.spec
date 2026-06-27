@@ -43,6 +43,7 @@ ln -s %_datadir/discord/Discord %buildroot%_bindir/discord
 %_bindir/discord
 %{_datadir}/discord/
 %{_datadir}/applications/discord.desktop
+%{_datadir}/pixmaps/discord.png
 
 %changelog
 * Thu Jan 19 2023 madonuko <mado@fyralabs.com> - 0.0.143-1
