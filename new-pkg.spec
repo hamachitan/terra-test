@@ -70,3 +70,7 @@ desktop-file-install --set-key=Exec --set-value="%{_datadir}/legcord/legcord %U"
 %{_iconsdir}/hicolor/256x256/apps/legcord.png
 %{_iconsdir}/hicolor/512x512/apps/legcord.png
 %{_iconsdir}/hicolor/1024x1024/apps/legcord.png
+
+%changelog
+* Sun Jun 06 2026 madonuko <madonuko@outlook.com> - 1.1.6-1
+- test message hey
