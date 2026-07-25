@@ -60,7 +60,6 @@ desktop-file-install --set-key=Exec --set-value="%{_datadir}/legcord/legcord %U"
 %doc README.md
 %license license.txt
 %{_bindir}/legcord
-a
 %{_datadir}/applications/legcord.desktop
 %{_datadir}/legcord/
 %{_iconsdir}/hicolor/16x16/apps/legcord.png
