@@ -82,6 +82,7 @@ install -Dpm644 -t %buildroot%_sysconfdir/yum.repos.d %SOURCE4
 
 %files multimedia
 %config(noreplace) %{_sysconfdir}/yum.repos.d/terra-multimedia.repo
+/test
 
 %changelog
 * Thu Nov 13 2025 madonuko <mado@fyralabs.com> - 44-1
